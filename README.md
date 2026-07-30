@@ -10,8 +10,7 @@ An animated heart drawing made with Python's `turtle` library...
 
 ### How to run
 
-\`\`\`bash
-python heart.py
+\`\`\`heart.py
 \`\`\`
 
 ---
@@ -22,6 +21,5 @@ Um desenho animado de um coração feito com a biblioteca `turtle` do Python...
 
 ### Como rodar
 
-\`\`\`bash
-python heart.py
+\`\`\`heart.py
 \`\`\`
